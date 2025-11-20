@@ -21,6 +21,6 @@ My first full CRUD application for managing product inventory. Built with Python
 3. Update database config in the code
 4. Run `python main.py`
 
-First project – more coming soon! 🚀 Open to feedback and remote opportunities.
+First project 🚀 Open to feedback and remote opportunities.
 
 Built by Juan Diego López – Junior Full-Stack Developer
