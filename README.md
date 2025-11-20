@@ -1,18 +1,16 @@
 # Inventory Management CRUD – Python & MySQL 🛒
 
-My first full CRUD application for managing product inventory. Built with Python, MySQL and Tkinter.
+My first full CRUD application for managing product inventory. Built with Python, MySQL.
 
 ## Features
 - Create, Read, Update and Delete products
 - Search products by name or ID
 - Real-time inventory tracking
-- Clean and intuitive GUI with Tkinter
 - MySQL database integration
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Screenshots
 (agrega aquí tus capturas cuando las tengas)
