@@ -23,4 +23,4 @@ My first full CRUD application for managing product inventory. Built with Python
 
 First project – more coming soon! 🚀 Open to feedback and remote opportunities.
 
-Built with ❤️ by Juan Diego López – Junior Full-Stack Developer
+Built by Juan Diego López – Junior Full-Stack Developer
